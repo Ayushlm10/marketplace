@@ -1,0 +1,21 @@
+entries/focus-mode.json
+  s_ff73db1235eda6::t_529670569017ed 1-28
+icons/focus-mode-d37cdfd5.svg
+  s_ff73db1235eda6::t_39cc0e51163879 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f6b649b542f6aa5c510911bb29d79d5419450bda",
+  "prompts": {},
+  "sessions": {
+    "s_ff73db1235eda6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16fef-8d54-74a2-b0d0-3175d30e2a96",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Ayush Thakur <athakur@cloudflare.com>"
+    }
+  }
+}
