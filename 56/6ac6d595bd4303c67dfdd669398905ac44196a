@@ -1,0 +1,21 @@
+entries/focus-mode.json
+  s_14bcce7c91ebb9::t_7a96bb67c58456 4,9-10,16,30
+overview/focus-mode.md
+  s_14bcce7c91ebb9::t_61e967fc924496 3-7,17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "566ac6d595bd4303c67dfdd669398905ac44196a",
+  "prompts": {},
+  "sessions": {
+    "s_14bcce7c91ebb9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cee09ccd-cab0-4160-ab20-f6d58d0bc49f",
+        "model": "unknown"
+      },
+      "human_author": "Ayush Thakur <athakur@cloudflare.com>"
+    }
+  }
+}
